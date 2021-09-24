@@ -50,7 +50,6 @@ An example
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixecozid0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <!--
 <div align="center">
   <h2 align="left"> 🚀My streack stats: </h2>
   <a href="https://github.com/peixecozid0/github-readme-streak-stats">
