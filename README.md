@@ -33,6 +33,18 @@ Welcome to my profile!
   <img title="JavaScript" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </p>
 
+<h2 align="left"> 💻Frameworks that i already worked: </h2>
+
+<p align="center">
+  <img title="VueJS" alt="VueJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  <img title=".Net" alt=".Net" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+  <!--<img title="Js" alt="Js" src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">-->
+  <img title="Xamarin" alt="Xamarin" height="50" width="50" src="https://i.imgur.com/gMDmu0C.png">
+  <img title="Laravel" alt="Laravel" height="50" width="50" src="https://i.imgur.com/KfgWNxX.png">
+  <img title="Bootstrap" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img title="Bootstrap" alt="Bootstrap" height="50" width="50" src="https://i.imgur.com/hlDc5Nn.png">
+</p>
+
 
 <!--
 <h2 align="left"> 📝Some open source projects: </h2>
@@ -44,10 +56,10 @@ An example
 
 <h2 align="left"> 📊My stats: </h2>
 
-<div>
+<div align="center">
   <a href="https://github.com/peixecozid0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=peixecozid0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixecozid0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
 </div>
 
 <div align="center">
