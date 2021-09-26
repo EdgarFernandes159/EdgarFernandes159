@@ -58,14 +58,14 @@ An example
 
 <div align="center">
   <a href="https://github.com/peixecozid0">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
 </div>
 
 <div align="center">
   <h2 align="left"> 🚀My streack stats: </h2>
   <a href="https://github.com/peixecozid0/github-readme-streak-stats">
-    <img alt="Edgar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px"/>
+    <img alt="Edgar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=peixecozid0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/>
   </a>
 </div>
 
