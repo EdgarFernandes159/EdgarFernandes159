@@ -4,7 +4,7 @@ Welcome to my profile!
 </h3>
 
 <p align="center">
-  <a href="https://github.com/peixecozid0"><img src="https://readme-typing-svg.herokuapp.com?color=5A11FF&size=25&center=true&vCenter=true&lines=Software+Developer;Looking+for+a+new+adventure"></a>
+  <a href="https://github.com/EdgarFernandes159"><img src="https://readme-typing-svg.herokuapp.com?color=5A11FF&size=25&center=true&vCenter=true&lines=Software+Developer;Looking+for+a+new+adventure"></a>
 </p>
 
 <p align="center">
