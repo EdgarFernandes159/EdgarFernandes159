@@ -31,6 +31,7 @@ Welcome to my profile!
   <img title="PHP" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img title="Mysql" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img title="JavaScript" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="Dart" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </p>
 
 <h2 align="left"> 💻Frameworks that i already worked: </h2>
@@ -43,6 +44,7 @@ Welcome to my profile!
   <img title="Laravel" alt="Laravel" height="50" width="50" src="https://i.imgur.com/KfgWNxX.png">
   <img title="Bootstrap" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img title="Bootstrap" alt="Bootstrap" height="50" width="50" src="https://i.imgur.com/hlDc5Nn.png">
+  <img title="Flutter" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </p>
 
 
