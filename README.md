@@ -11,7 +11,7 @@ Welcome to my profile!
   <a href="https://www.linkedin.com/in/edgar-fernandes7">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
-  <a href="https://github.com/peixecozid0">
+  <a href="https://github.com/EdgarFernandes159">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </a>
   <!--
