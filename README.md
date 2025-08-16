@@ -34,7 +34,7 @@ Welcome to my profile!
   <img title="Dart" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </p>
 
-<h2 align="left"> 💻Frameworks that i already worked: </h2>
+<h2 align="left"> 💻Frameworks that I already worked: </h2>
 
 <p align="center">
   <img title="VueJS" alt="VueJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
