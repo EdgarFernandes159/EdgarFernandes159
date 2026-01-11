@@ -65,7 +65,7 @@ An example
 </div>
 
 <div align="center">
-  <h2 align="left"> 🚀My streack stats: </h2>
+  <h2 align="left"> 🚀My streak stats: </h2>
   <a href="https://github.com/peixecozid0/github-readme-streak-stats">
     <img alt="Edgar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EdgarFernandes159&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#5A5A11FF&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180em"/>
   </a>
